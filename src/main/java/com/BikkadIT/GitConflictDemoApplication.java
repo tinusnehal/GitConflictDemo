@@ -8,8 +8,13 @@ public class GitConflictDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitConflictDemoApplication.class, args);
+
 		
 		String msg="God Blessed you";
+
+	
+	String msg="Welcome To India";
+
 	}
 
 }
